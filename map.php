@@ -191,7 +191,7 @@ if(isset($_GET["long"])){$longitudeURL = $_GET["long"];}
 		
 
 
-		<p class="center"><input class="button" type="submit" name ="submit" data-rel="popup" value="add to database"></p></br>
+		<p class="center"><input class="button" type="submit" name ="submit" data-rel="popup" value="add latitude and longitude to database"></p></br>
     </form>
     </div>
     </div>
